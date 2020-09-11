@@ -94,10 +94,10 @@ const Home = () => {
           <MenuText href="mailto:michel.m.kazi@gmail.com" target="_blank">Contact</MenuText>
         </li>
         <li>
-          <MenuText href="#projects">Projects</MenuText>
+          <MenuText href="https://github.com/michelkazi" >Projects</MenuText>
         </li>
         <li>
-          <MenuText href="https://github.com/michelkazi" target="_blank">Github</MenuText>
+          <MenuText href="https://github.com/michelkazi" target="_blank">GitHub</MenuText>
         </li>
         <li>
           <MenuText href="https://linkedin.com/in/mynameismichelkazi" target="_blank">LinkedIn</MenuText>
